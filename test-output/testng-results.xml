@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59152" started-at="2019-09-29T04:14:52Z" finished-at="2019-09-29T04:15:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59152" started-at="2019-09-29T04:14:52Z" finished-at="2019-09-29T04:15:51Z">
+      <class name="com.freecrm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="setup" is-config="true" duration-ms="20039" started-at="2019-09-29T04:14:52Z" finished-at="2019-09-29T04:15:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ContactPageValidationTest()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="ContactPageValidationTest" duration-ms="2448" started-at="2019-09-29T04:15:12Z" finished-at="2019-09-29T04:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactPageValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="tearDown" is-config="true" duration-ms="869" started-at="2019-09-29T04:15:15Z" finished-at="2019-09-29T04:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="setup" is-config="true" duration-ms="14338" started-at="2019-09-29T04:15:15Z" finished-at="2019-09-29T04:15:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ContactTabValidationTest()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="ContactTabValidationTest" duration-ms="1370" started-at="2019-09-29T04:15:30Z" finished-at="2019-09-29T04:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactTabValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="tearDown" is-config="true" duration-ms="857" started-at="2019-09-29T04:15:31Z" finished-at="2019-09-29T04:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="setup" is-config="true" duration-ms="16461" started-at="2019-09-29T04:15:32Z" finished-at="2019-09-29T04:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="HomePageLogoValidationTest()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="HomePageLogoValidationTest" duration-ms="1570" started-at="2019-09-29T04:15:48Z" finished-at="2019-09-29T04:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLogoValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.freecrm.qa.testcases.HomePageTest@754ba872]" name="tearDown" is-config="true" duration-ms="1086" started-at="2019-09-29T04:15:50Z" finished-at="2019-09-29T04:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
